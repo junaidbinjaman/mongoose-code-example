@@ -1,0 +1,23 @@
+{
+  "name": "class-38",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwolt65859/mongoose-code-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwolt65859/mongoose-code-example/issues"
+  },
+  "homepage": "https://github.com/jwolt65859/mongoose-code-example#readme",
+  "dependencies": {
+    "logger": "^0.0.1"
+  }
+}
